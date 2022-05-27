@@ -37,11 +37,11 @@ Went with H2 to be faster, but if this API would be deployed in prod I would hav
 
 ## Further Improvements
 
-Create a docker image.
-Improve unit tests and integration tests, add more test cases.
-Create env variables.
-Expand the api features to include room price management.
-Swagger documentation can be improved.
+- Create a docker image.
+- Improve unit tests and integration tests, add more test cases.
+- Create env variables.
+- Expand the api features to include room price management.
+- Swagger documentation can be improved.
 
 
 
