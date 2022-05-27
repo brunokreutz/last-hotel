@@ -31,10 +31,10 @@ app.maxStay=3
 ```
 ## Development choices
 
-#### Framework
+### Framework
 Springboot with hibernate
 
-##### Database
+#### Database
 I used H2 in memory database, but same results could be achieved with any other relational db.
 Went with H2 to be faster, but if this API would be deployed in prod I would have chosen another one and left h2 just for tests.
 
